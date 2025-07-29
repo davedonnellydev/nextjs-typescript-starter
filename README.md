@@ -1,6 +1,23 @@
-# Next.js TypeScript Starter
+# Project [00]: [Project name]
 
-A lightweight Next.js starter template with TypeScript, ESLint, Prettier, and Jest.
+**Starter**: Project based off the [Next.js TypeScript starter](https://github.com/davedonnellydev/nextjs-typescript-starter)
+**Date**: [Project build date here]
+
+This project has been built as part of my AI Project-a-Day Challenge. You can read more information on the full project here: [https://github.com/davedonnellydev/ai-august-2025-challenge](https://github.com/davedonnellydev/ai-august-2025-challenge).
+
+**Project Objective**: *Write up any project objectives here*
+
+
+
+## 🚀 Features
+
+- List project features here
+
+
+## 🖥️ Demo
+
+**[Live Demo](https://your-demo-url.com)**
+*(Link will be added after deployment)*
 
 ## Quick Start
 
@@ -27,6 +44,12 @@ A lightweight Next.js starter template with TypeScript, ESLint, Prettier, and Je
    npm test
    ```
 
+
+## 🧪 Testing
+
+![CI](https://github.com/davedonnellydev/nextjs-typescript-starter/actions/workflows/ci.yml/badge.svg)
+*Link should be amended so that correct repo is specified*
+
 ## Available Scripts
 
 - `npm run dev` — Start development server
@@ -43,15 +66,6 @@ A lightweight Next.js starter template with TypeScript, ESLint, Prettier, and Je
 - `pages/api/` — API routes
 - `__tests__/` — Test files
 
-## Features
-
-- ⚡ Next.js 15 with App Router
-- 🔷 TypeScript 5
-- 🧪 Jest & Testing Library
-- 📏 ESLint & Prettier
-- 🎨 CSS Modules
-- 📱 Responsive design ready
-
 ## License
 
-MIT
+This project is licensed under the MIT License.
