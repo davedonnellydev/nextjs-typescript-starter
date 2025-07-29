@@ -16,7 +16,7 @@ This project has been built as part of my AI Project-a-Day Challenge. You can re
 
 ## 🖥️ Demo
 
-**[Live Demo](https://your-demo-url.com)**
+**[Live Demo](https://your-demo-url.com)**  
 *(Link will be added after deployment)*
 
 ## Quick Start
@@ -47,7 +47,7 @@ This project has been built as part of my AI Project-a-Day Challenge. You can re
 
 ## 🧪 Testing
 
-![CI](https://github.com/davedonnellydev/nextjs-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/davedonnellydev/nextjs-typescript-starter/actions/workflows/ci.yml/badge.svg)  
 *Link should be amended so that correct repo is specified*
 
 ## Available Scripts
