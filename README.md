@@ -1,5 +1,6 @@
 # Project [00]: [Project name]
 
+**Starter**: Project based off the [Next.js TypeScript starter](https://github.com/davedonnellydev/nextjs-typescript-starter)  
 **Date**: [Project build date here]
 
 This project has been built as part of my AI Project-a-Day Challenge. You can read more information on the full project here: [https://github.com/davedonnellydev/ai-august-2025-challenge](https://github.com/davedonnellydev/ai-august-2025-challenge).
