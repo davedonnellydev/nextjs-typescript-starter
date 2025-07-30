@@ -1,5 +1,6 @@
 # Project [00] #AIAppAugust: [Project name]
 
+![Last Commit](https://img.shields.io/github/last-commit/davedonnellydev/nextjs-typescript-starter)
 
 **📆 Date**: *[Project build date here]*  
 **🎯 Project Objective**: *[Write up any project objectives here]*  
@@ -32,7 +33,7 @@ This project has been built as part of my AI App August Challenge. You can read 
 
 1. **Clone and install:**
    ```bash
-   git clone <your-repo-url>
+   gh repo clone davedonnellydev/nextjs-typescript-starter
    cd nextjs-typescript-starter
    npm install
    ```
@@ -54,5 +55,5 @@ This project has been built as part of my AI App August Challenge. You can read 
    ```
 
 ## License
-
+![GitHub License](https://img.shields.io/github/license/davedonnellydev/nextjs-typescript-starter)  
 This project is licensed under the MIT License.
