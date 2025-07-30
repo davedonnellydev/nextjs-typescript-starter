@@ -84,6 +84,6 @@ npm run start
 
 
 
-## License
+## 📜 License
 ![GitHub License](https://img.shields.io/github/license/davedonnellydev/nextjs-typescript-starter)  
 This project is licensed under the MIT License.
