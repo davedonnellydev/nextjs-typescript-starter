@@ -1,23 +1,32 @@
-# Project [00]: [Project name]
-
-**Starter**: Project based off the [Next.js TypeScript starter](https://github.com/davedonnellydev/nextjs-typescript-starter)
-**Date**: [Project build date here]
-
-This project has been built as part of my AI Project-a-Day Challenge. You can read more information on the full project here: [https://github.com/davedonnellydev/ai-august-2025-challenge](https://github.com/davedonnellydev/ai-august-2025-challenge).
-
-**Project Objective**: *Write up any project objectives here*
+# Project [00] #AIAppAugust: [Project name]
 
 
+**📆 Date**: *[Project build date here]*  
+**🎯 Project Objective**: *[Write up any project objectives here]*  
+**🚀 Features**: *[Main features for MVP]*  
+**🛠️ Tech used**: *[Main tech used, including links to libraries/APIs]*  
+**Live Demo**: *[https://your-demo-url.com](https://your-demo-url.com)*  
+*(Link will be added after deployment)*  
 
-## 🚀 Features
+**Starter repo**: [Next.js TypeScript starter](https://github.com/davedonnellydev/nextjs-typescript-starter)  
 
-- List project features here
+## 🗒️ Summary
+**Lessons learned**  
+*A little summary of learnings*
+
+**Blockers**  
+*Note any blockers here*  
+
+**Final thoughts**  
+*Any final thoughts here*  
 
 
-## 🖥️ Demo
+This project has been built as part of my AI App August Challenge. You can read more information on the full project here: [https://github.com/davedonnellydev/ai-august-2025-challenge](https://github.com/davedonnellydev/ai-august-2025-challenge).
 
-**[Live Demo](https://your-demo-url.com)**  
-*(Link will be added after deployment)*
+## 🧪 Testing
+
+![CI](https://github.com/davedonnellydev/nextjs-typescript-starter/actions/workflows/ci.yml/badge.svg) - *Note: Test suite runs automatically with each push/merge.*  
+*Link should be amended so that correct repo is specified*
 
 ## Quick Start
 
@@ -43,28 +52,6 @@ This project has been built as part of my AI Project-a-Day Challenge. You can re
    ```bash
    npm test
    ```
-
-
-## 🧪 Testing
-
-![CI](https://github.com/davedonnellydev/nextjs-typescript-starter/actions/workflows/ci.yml/badge.svg)  
-*Link should be amended so that correct repo is specified*
-
-## Available Scripts
-
-- `npm run dev` — Start development server
-- `npm run build` — Build for production
-- `npm run start` — Start production server
-- `npm run lint` — Lint code
-- `npm test` — Run tests
-
-## Project Structure
-
-- `src/app/` — Next.js App Router pages
-- `src/components/` — Reusable components
-- `src/lib/` — Utility functions
-- `pages/api/` — API routes
-- `__tests__/` — Test files
 
 ## License
 
