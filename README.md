@@ -26,8 +26,8 @@ This project has been built as part of my AI App August Challenge. You can read 
 
 ## 🧪 Testing
 
-![CI](https://github.com/davedonnellydev/nextjs-typescript-starter/actions/workflows/ci.yml/badge.svg) - *Note: Test suite runs automatically with each push/merge.*  
-*Link should be amended so that correct repo is specified*
+![CI](https://github.com/davedonnellydev/nextjs-typescript-starter/actions/workflows/ci.yml/badge.svg) *[Link should be amended so that correct repo is specified]*  
+*Note: Test suite runs automatically with each push/merge.*  
 
 ## Quick Start
 
@@ -53,6 +53,36 @@ This project has been built as part of my AI App August Challenge. You can read 
    ```bash
    npm test
    ```
+
+## 🔧 Configuration
+
+### API Integration
+
+```typescript
+import { useApi } from './hooks/useApi';
+
+const { data, isLoading, error, execute } = useApi('get', '/api/endpoint');
+
+// Execute API call
+execute({ param: 'value' });
+```
+
+## 📦 Available Scripts
+
+```bash
+# Start development server
+npm start
+
+# Build for production
+npm build
+
+# Run test suite
+npm test
+
+# Eject from Create React App
+npm eject
+```
+
 
 ## License
 ![GitHub License](https://img.shields.io/github/license/davedonnellydev/nextjs-typescript-starter)  
