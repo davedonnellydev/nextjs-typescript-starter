@@ -33,7 +33,7 @@ This project has been built as part of my AI App August Challenge. You can read 
 
 1. **Clone and install:**
    ```bash
-   gh repo clone davedonnellydev/nextjs-typescript-starter
+   git clone https://github.com/davedonnellydev/nextjs-typescript-starter.git
    cd nextjs-typescript-starter
    npm install
    ```
