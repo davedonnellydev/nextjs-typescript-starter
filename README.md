@@ -6,14 +6,14 @@
 **🎯 Project Objective**: *[Write up any project objectives here]*  
 **🚀 Features**: *[Main features for MVP]*  
 **🛠️ Tech used**: *[Main tech used, including links to libraries/APIs]*  
-**Live Demo**: *[https://your-demo-url.com](https://your-demo-url.com)*  
+**▶️ Live Demo**: *[https://your-demo-url.com](https://your-demo-url.com)*  
 *(Link will be added after deployment)*  
 
-**Starter repo**: [Next.js TypeScript starter](https://github.com/davedonnellydev/nextjs-typescript-starter)  
+**🏁 Starter repo**: [Next.js TypeScript starter](https://github.com/davedonnellydev/nextjs-typescript-starter)  
 
 ## 🗒️ Summary
 **Lessons learned**  
-*A little summary of learnings*
+*A little summary of learnings*  
 
 **Blockers**  
 *Note any blockers here*  
@@ -22,7 +22,7 @@
 *Any final thoughts here*  
 
 
-This project has been built as part of my AI App August Challenge. You can read more information on the full project here: [https://github.com/davedonnellydev/ai-august-2025-challenge](https://github.com/davedonnellydev/ai-august-2025-challenge).
+This project has been built as part of my AI App August Challenge. You can read more information on the full project here: [https://github.com/davedonnellydev/ai-august-2025-challenge](https://github.com/davedonnellydev/ai-august-2025-challenge).  
 
 ## 🧪 Testing
 
@@ -57,31 +57,31 @@ This project has been built as part of my AI App August Challenge. You can read 
 ## 🔧 Configuration
 
 ### API Integration
+The project includes a proxy API endpoint at /api/proxy that can be configured to handle external API calls. The current implementation is a placeholder that returns a success message.  
+To configure external API integration:
+- Update the `pages/api/proxy.ts` file with your specific API logic
+- Replace the placeholder code with actual API endpoint calls
+- Add any required API keys or authentication to your `.env.local` file
 
-```typescript
-import { useApi } from './hooks/useApi';
-
-const { data, isLoading, error, execute } = useApi('get', '/api/endpoint');
-
-// Execute API call
-execute({ param: 'value' });
-```
 
 ## 📦 Available Scripts
-
 ```bash
 # Start development server
-npm start
+npm run dev
 
-# Build for production
-npm build
-
-# Run test suite
+# Run tests once
 npm test
 
-# Eject from Create React App
-npm eject
+# Run tests in watch mode
+npm run test:watch
+
+# Build for production
+npm run build
+
+# Start production server
+npm run start
 ```
+
 
 
 ## License
